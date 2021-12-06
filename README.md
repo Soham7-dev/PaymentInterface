@@ -10,6 +10,7 @@
 - Then go to Razorpay Dashboard > Settings
 - Then Enable Test mode
 - Then Generate API Key
+- ![](https://github.com/Soham7-dev/Images-and-GIFS/blob/main/Screenshot%20(228).png)
 
 ### API KEY AUTHENTICATION AND CREATING A RAZORPAY ORDER FROM SERVER SIDE DJANGO
 

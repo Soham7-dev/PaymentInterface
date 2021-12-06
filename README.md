@@ -28,7 +28,7 @@
 
 ### HANDLING PAYMENT IN THE CLIENT SIDE
 
-- We have created a simple form where a person submits his name and donataes ₹100
+- We have created a simple form where a person submits his name and donates ₹100
 - ![](https://github.com/Soham7-dev/Images-and-GIFS/blob/main/Screenshot%20(229).png)
 - After Clicking the donation button Razorpay window pops up
 - Here the donor gives his/her email address and phone no.
